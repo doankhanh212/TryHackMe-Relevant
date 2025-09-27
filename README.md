@@ -82,7 +82,7 @@ PrintSpoofer là một lỗ hổng có thể được sử dụng để nâng ca
 
 Để nâng cao quyền tôi tham khảo bài viết này https://github.com/itm4n/PrintSpoofer
 
-trên máy tấn công 
+trên máy kali
 
 git clone https://github.com/dievus/printspoofer
 
