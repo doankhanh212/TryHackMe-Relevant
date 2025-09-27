@@ -66,8 +66,6 @@ sau đó nhập url http://10.201.108.162:49663/nt4wrksv/shell.aspx
 
 và tôi đã có được shell
 
-<img width="736" height="338" alt="image" src="https://github.com/user-attachments/assets/4bba456b-288d-4eb4-b98f-d840b35c5976" />
-
 Cờ đầu tiên nằm ở đường dẫn này 
 
 PS C:\Users\Bob\Desktop> cat user.txt
@@ -76,6 +74,9 @@ THM{fdk4ka34vk346ksxfr21tg789ktf45}
 
 
 Khai thác lỗ hổng PrintSpoofer
+
+<img width="736" height="338" alt="image" src="https://github.com/user-attachments/assets/f6af6207-68fc-4927-a6e8-954622bf358e" />
+
 
 PrintSpoofer là một lỗ hổng có thể được sử dụng để nâng cao quyền của người dùng dịch vụ trên Windows Server 2016, Server 2019 và Windows 10.
 
